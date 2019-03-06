@@ -1,0 +1,11 @@
+/home/szilvasi/Documents/CSharp/Exercise1/obj/Debug/netcoreapp2.2/Exercise1.csprojAssemblyReference.cache
+/home/szilvasi/Documents/CSharp/Exercise1/obj/Debug/netcoreapp2.2/Exercise1.csproj.CoreCompileInputs.cache
+/home/szilvasi/Documents/CSharp/Exercise1/obj/Debug/netcoreapp2.2/Exercise1.AssemblyInfoInputs.cache
+/home/szilvasi/Documents/CSharp/Exercise1/obj/Debug/netcoreapp2.2/Exercise1.AssemblyInfo.cs
+/home/szilvasi/Documents/CSharp/Exercise1/bin/Debug/netcoreapp2.2/Exercise1.deps.json
+/home/szilvasi/Documents/CSharp/Exercise1/bin/Debug/netcoreapp2.2/Exercise1.runtimeconfig.json
+/home/szilvasi/Documents/CSharp/Exercise1/bin/Debug/netcoreapp2.2/Exercise1.runtimeconfig.dev.json
+/home/szilvasi/Documents/CSharp/Exercise1/bin/Debug/netcoreapp2.2/Exercise1.dll
+/home/szilvasi/Documents/CSharp/Exercise1/bin/Debug/netcoreapp2.2/Exercise1.pdb
+/home/szilvasi/Documents/CSharp/Exercise1/obj/Debug/netcoreapp2.2/Exercise1.dll
+/home/szilvasi/Documents/CSharp/Exercise1/obj/Debug/netcoreapp2.2/Exercise1.pdb
